@@ -35,8 +35,7 @@ coooCCO8\@88OO8O888Oo:::... ..  :cO8Oc. . .....  :.  .:ccCoooooccoooocccccooooCC
    .  . ...    .... ..  .:cccoCooc:..  ::cccc:::c:.. ......... ......::::c:cccco
   .  .. ... ..    .. ..   ..:...:cooc::cccccc:.....  .........  .....:::::ccoocc
        .   .         .. ..::cccc:.::ccoocc:. ........... ..  . ..:::.:::::::ccco
- Welcome to Slowloris - the low bandwidth, yet greedy and poisonous HTTP client
-EOTEXT
+ Welcome to Slowloris - Edited by EXPLOIT HACK TEAM PT
 
 my ( $host, $port, $sendhost, $shost, $test, $version, $timeout, $connections );
 my ( $cache, $httpready, $method, $ssl, $rand, $tcpto );
